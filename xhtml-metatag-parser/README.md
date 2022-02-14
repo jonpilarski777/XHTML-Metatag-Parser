@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# XHTML Metatag Parser
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**Description**:Project that allows user to input a block of HTML and parses out metatag properties into a dynamic sortable table
+
+## Getting Started 
+
+- Project boostrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
