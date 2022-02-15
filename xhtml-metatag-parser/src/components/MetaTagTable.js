@@ -2,7 +2,7 @@ import React from 'react'
 
 function MetaTagTable() {
   return (
-    <div>MetaTagTable</div>
+    <div>Meta Tag Property Table</div>
   )
 }
 
