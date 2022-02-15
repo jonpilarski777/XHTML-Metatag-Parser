@@ -5,8 +5,8 @@ function Header() {
       <header>
           <h1>
             Meta Tag Parser
-        
-        </h1> </header>
+        </h1>
+         </header>
     
   )
 }
